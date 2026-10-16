@@ -1,0 +1,14 @@
+{
+  "name": "meta-add-ig",
+  "version": "1.0.0",
+  "description": "Auto add IG accounts to Meta hotmail accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "puppeteer": "^23.0.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}
